@@ -1,0 +1,29 @@
+Prueba Técnica Simplificada: Componente React de Contador
+
+Objetivo: Crear un componente de contador simple en React. Este componente permitirá a los usuarios incrementar, decrementar y resetear un contador.
+
+ 
+
+Requisitos Funcionales:
+
+Visualización del Contador: Mostrar un número que representa el valor actual del contador.
+Botones para Controlar el Contador: Incluir botones para:
+Incrementar el contador.
+Decrementar el contador.
+Resetear el contador a su valor inicial (por ejemplo, 0).
+Requisitos No Funcionales:
+
+Uso de componentes funcionales y el hook useState.
+Código claro y bien estructurado.
+Aplicación de estilos básicos para una interfaz de usuario atractiva.
+Optimización del rendimiento: evitar renderizados innecesarios.
+Criterios de Evaluación:
+
+Calidad del código: claridad, uso adecuado de React y JavaScript.
+Mantenibilidad: organización del código y facilidad de modificación.
+Rendimiento: eficiencia en el manejo del estado y renderizados.
+Cumplimiento de los requisitos funcionales y no funcionales.
+Entregables:
+
+Código fuente del componente de contador.
+Instrucciones breves para ejecutar el componente.

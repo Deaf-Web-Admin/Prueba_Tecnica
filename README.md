@@ -1,2 +1,1 @@
-# Prueba_Tecnica
-Prueba Tecnica en React
+# AMVICU linux.user@techie.com
